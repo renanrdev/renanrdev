@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi 👋
+
+
+Graduated in systems analysis and development. Passionate about technology, cloud computing and DevOps best practices. Currently working with development Full Stack Developer at MáximaTech | .NET | C#. The main technologies I study are:
 
 <!--
 **renanrdev/renanrdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
